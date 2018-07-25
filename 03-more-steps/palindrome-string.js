@@ -5,7 +5,7 @@ function palindrome(string) {
     for (let i = string.length - 2; i >= 0; i--) {
         string2 += string[i];
     }
-    return string.concat(string2);
+    return string2;
 }
 
 const a = palindrome('xyz');

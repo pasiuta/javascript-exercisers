@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="303b9555-4de4-4bf3-8372-e592859f41f8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/03-more-steps/palindrome-numbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-more-steps/palindrome-string.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/more-exercises/0-2-4-6-8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/more-exercises/0-3-6-9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/more-exercises/parametr-comma.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/more-exercises/parametr-dot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/more-exercises/word.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-more-steps/palindrome-string.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-more-steps/palindrome-string.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,38 +22,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="multiply-array-on-number.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-more-steps/multiply-array-on-number.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="multiply-array-on-number-1.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/labs/multiply-array-on-number-1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="palindrome-numbers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-more-steps/palindrome-numbers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="33" selection-end-line="18" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="palindrome-string.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="palindrome-string.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03-more-steps/palindrome-string.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="105">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parametr-dot.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/more-exercises/parametr-dot.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parametr-comma.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/more-exercises/parametr-comma.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="0-3-6-9.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/more-exercises/0-3-6-9.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="0-2-4-6-8.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/more-exercises/0-2-4-6-8.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="word.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/more-exercises/word.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -114,6 +136,11 @@
         <option value="$PROJECT_DIR$/labs/multiply-array-on-number-1.js" />
         <option value="$PROJECT_DIR$/03-more-steps/palindrome-numbers.js" />
         <option value="$PROJECT_DIR$/03-more-steps/palindrome-string.js" />
+        <option value="$PROJECT_DIR$/more-exercises/parametr-dot.js" />
+        <option value="$PROJECT_DIR$/more-exercises/parametr-comma.js" />
+        <option value="$PROJECT_DIR$/more-exercises/0-3-6-9.js" />
+        <option value="$PROJECT_DIR$/more-exercises/0-2-4-6-8.js" />
+        <option value="$PROJECT_DIR$/more-exercises/word.js" />
       </list>
     </option>
   </component>
@@ -149,6 +176,11 @@
               <item name="JS" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
               <item name="03-more-steps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+              <item name="more-exercises" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -224,15 +256,17 @@
       <workItem from="1531901483996" duration="8839000" />
       <workItem from="1531915540651" duration="4796000" />
       <workItem from="1532505534673" duration="2436000" />
+      <workItem from="1532512154648" duration="996000" />
+      <workItem from="1532513173104" duration="849000" />
+      <workItem from="1532514091729" duration="8685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88501000" />
+    <option name="totallyTimeSpent" value="99031000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="-4" width="1307" height="772" extended-state="6" />
-    <editor active="true" />
+    <frame x="58" y="-11" width="1309" height="780" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25778815" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -241,7 +275,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32917318" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32970452" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.35413417" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.35413417" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -265,48 +299,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/other/2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-first-steps/integer-numbers-range.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/other/2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/other/Functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/other/2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/other/new.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/other/Functions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -580,17 +572,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/03-more-steps/checknums.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/03-more-steps/palindrome-numbers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="33" selection-end-line="18" selection-end-column="19" />
+        <state relative-caret-position="75">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03-more-steps/palindrome-string.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="105">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/more-exercises/parametr-dot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/more-exercises/parametr-comma.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/more-exercises/0-3-6-9.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/more-exercises/0-2-4-6-8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/more-exercises/word.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
