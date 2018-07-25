@@ -1,0 +1,6 @@
+let newYearsResolutions = ['Run a marathon', 'Learn a new language', 'Read 52 books'];
+newYearsResolutions.push('hello','bye!');
+
+newYearsResolutions.pop();
+console.log(newYearsResolutions);
+

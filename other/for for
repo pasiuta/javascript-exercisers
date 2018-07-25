@@ -1,0 +1,9 @@
+let myPlaces = ['Poltava','Kiev','Kharkiv'];
+let friendPlaces =['Poltava','New York','Paris'];
+
+for (let myPlacesIndex =0; myPlacesIndex < myPlaces.length; myPlacesIndex++){
+  console.log(myPlaces[myPlacesIndex]);
+  for(let friendPlacesIndex = 0; friendPlacesIndex < friendPlaces.length; friendPlacesIndex++){
+    console.log(friendPlaces[friendPlacesIndex]);
+  }
+}
